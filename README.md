@@ -3,11 +3,11 @@
   <h3>Backend-developer with a pinch of ML-engineer</h3>
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://telegram.me/FredMove)
-  [![Email](https://img.shields.io/badge/waltzforlovers@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:cherepkovdm@gmail.com)
+  [![Email](https://img.shields.io/badge/cherepkovdm@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:cherepkovdm@gmail.com)
   
   ![Open to opportunities](https://img.shields.io/badge/Open%20to%20opportunities-FFA500?style=for-the-badge)
 </div>
-### 🛠️ Tech Stack
+##Tech Stack
 
 **Languages & Backend**
 <p align="center">
