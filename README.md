@@ -7,7 +7,6 @@
   
   ![Open to opportunities](https://img.shields.io/badge/Open%20to%20opportunities-FFA500?style=for-the-badge)
 </div>
-##Tech Stack
 
 **Languages & Backend**
 <p align="center">
@@ -27,7 +26,7 @@
 
 **ML**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=llm,vllm,rag,langchain,ollama&perline=7" />
+  <img src="https://skillicons.dev/icons?i=llm,vllm,langchain,ollama&perline=7" />
 </p>
 
 ### 🚀 Main project
