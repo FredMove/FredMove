@@ -10,23 +10,24 @@
 
 **Languages & Backend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,python&perline=7" />
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,rest,junit&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,go,python&perline=6" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,gradle,maven,junit&perline=6" />
 </p>
 
 **Databases & Messaging**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka&perline=7" />
+  <img src="https://skillicons.dev/icons?i=postgresql,redis,kafka&perline=6" />
 </p>
 
 **DevOps & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,postman&perline=6" />
 </p>
 
 **ML**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=llm,vllm,langchain,ollama&perline=7" />
+  <img src="https://skillicons.dev/icons?i=llm,langchain,ollama,vllm&perline=6" />
 </p>
 
 ### 🚀 Main project
