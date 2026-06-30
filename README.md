@@ -7,8 +7,11 @@
   
   ![Open to opportunities](https://img.shields.io/badge/Open%20to%20opportunities-FFA500?style=for-the-badge)
 </div>
+
+---
+
 **Languages & Backend**
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -20,14 +23,14 @@
 </p>
 
 **Databases & Messaging**
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
 </p>
 
 **DevOps & Tools**
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -35,12 +38,14 @@
 </p>
 
 **ML**
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/LLM-4B0082?style=for-the-badge" alt="LLM"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
   <img src="https://img.shields.io/badge/Ollama-EE4C2C?style=for-the-badge" alt="Ollama"/>
   <img src="https://img.shields.io/badge/vLLM-111827?style=for-the-badge" alt="vLLM"/>
 </p>
+
+---
 
 ### 🚀 Main project
 
