@@ -36,10 +36,10 @@
 
 **ML**
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge" alt="LLM"/>
+  <img src="https://img.shields.io/badge/LLM-4B0082?style=for-the-badge" alt="LLM"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge" alt="vLLM"/>
+  <img src="https://img.shields.io/badge/Ollama-EE4C2C?style=for-the-badge" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/vLLM-111827?style=for-the-badge" alt="vLLM"/>
 </p>
 
 ### 🚀 Main project
