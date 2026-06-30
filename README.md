@@ -1,28 +1,35 @@
 <div align="center">
   <h1>Dmitriy (Chima) Cherepkov</h1>
-  <h3>Backend-developer</h3>
+  <h3>Backend-developer with a pinch of ML-engineer</h3>
   
-  **Open to work** 🔍
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://telegram.me/FredMove)
+  [![Email](https://img.shields.io/badge/waltzforlovers@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:cherepkovdm@gmail.com)
+  
+  ![Open to opportunities](https://img.shields.io/badge/Open%20to%20opportunities-FFA500?style=for-the-badge)
 </div>
-
----
-
-### 📬 Контакты
-- **Email:** [cherepkovdm@gmail.com]
-- **Telegram:** [@FredMove]
-
----
-
 ### 🛠️ Tech Stack
 
+**Languages & Backend**
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,go,python,postgres,kafka,redis,docker,linux,git,postman,fastapi&perline=8" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,go,python&perline=7" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,rest,junit&perline=7" />
 </p>
 
----
+**Databases & Messaging**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,kafka&perline=7" />
+</p>
 
-### 🚀 Основной проект
+**DevOps & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,postman&perline=7" />
+</p>
 
-**NETutor** — RAG-система с веб-сервисом на Spring Boot для образовательных учреждений.
+**ML**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=llm,vllm,rag,langchain,ollama&perline=7" />
+</p>
+
+### 🚀 Main project
+
+**[NETutor](https://github.com/FredMove/NETutor)** — RAG-system with web-service on Spring Boot for educational institutions.
