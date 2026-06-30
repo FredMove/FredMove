@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Dmitriy (Chima) Cherepkov</h1>
   ---
   <h3>Backend-developer with a pinch of ML-engineer</h3>
