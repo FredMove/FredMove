@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,go,python&perline=6" />
   <br>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,gradle,maven,junit&perline=6" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,junit&perline=6" />
 </p>
 
 **Databases & Messaging**
