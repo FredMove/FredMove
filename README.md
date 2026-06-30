@@ -7,27 +7,39 @@
   
   ![Open to opportunities](https://img.shields.io/badge/Open%20to%20opportunities-FFA500?style=for-the-badge)
 </div>
-
 **Languages & Backend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,go,python&perline=6" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,junit&perline=6" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/REST-FF6F00?style=for-the-badge" alt="REST"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
 </p>
 
 **Databases & Messaging**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,redis,kafka&perline=6" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
 </p>
 
 **DevOps & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,postman&perline=6" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 **ML**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=llm,langchain,ollama,vllm&perline=6" />
+  <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge" alt="LLM"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge" alt="vLLM"/>
 </p>
 
 ### 🚀 Main project
