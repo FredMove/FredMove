@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Dmitriy (Chima) Cherepkov</h1>
+  ---
   <h3>Backend-developer with a pinch of ML-engineer</h3>
   
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://telegram.me/FredMove)
